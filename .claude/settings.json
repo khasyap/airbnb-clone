@@ -1,0 +1,13 @@
+{
+  "projectName": "airbnb-listing-clone",
+  "stack": ["vite", "react", "typescript"],
+  "focus": "desktop-listing-page",
+  "deliverables": [
+    "listing-page",
+    "photo-tour",
+    "lightbox",
+    "architecture-diagram",
+    "reference-analysis"
+  ],
+  "excludeFromZip": ["node_modules", "dist", ".git"]
+}
